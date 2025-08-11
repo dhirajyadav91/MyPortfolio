@@ -36,7 +36,15 @@ const skills = [
     icon: SiRedux,
   },
   {
-    skill: "NextJS",
+    skill: "Nodejs",
+    icon: SiNextdotjs,
+  },
+    {
+    skill: "Expressjs",
+    icon: SiNextdotjs,
+  },
+    {
+    skill: "Mongodbjs",
     icon: SiNextdotjs,
   },
   {
